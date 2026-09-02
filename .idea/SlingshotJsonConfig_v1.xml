@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SLingshotJsonConfig">
+    <option name="slingshotConfigurations">
+      <SageConfigurations>
+        <option name="allowDevMode" value="true" />
+        <option name="environment" value="prod" />
+        <option name="sapientAuthConfig">
+          <JsonNode />
+        </option>
+      </SageConfigurations>
+    </option>
+    <option name="sageConfigurations" value="{&quot;codeToSpec&quot;:null,&quot;specToCode&quot;:null,&quot;drawerContext&quot;:null,&quot;testingLibraries&quot;:null,&quot;analyticsTags&quot;:null,&quot;sage_env&quot;:&quot;prod&quot;,&quot;apiProvider&quot;:null,&quot;sapientAuthConfig&quot;:{&quot;common&quot;:{&quot;AUTH_NAME&quot;:&quot;Publicis Sapient&quot;,&quot;AUTH_TYPE&quot;:&quot;publicis-sapient&quot;,&quot;GRACE_PERIOD&quot;:120000},&quot;environments&quot;:{&quot;prod&quot;:{&quot;DOMAIN_NAME&quot;:&quot;https://schneiderelectric.sapientaiproducts.com&quot;,&quot;STUDIO_AUTH_LOGIN_URI&quot;:&quot;https://schneiderelectric.sapientaiproducts.com/web/v1/studio-auth/login&quot;,&quot;DESKTOP_EXCHANGE_URI&quot;:&quot;https://schneiderelectric.sapientaiproducts.com/api/v1/studio-auth/auth/desktop/exchange&quot;,&quot;APP_TOKEN_URI&quot;:&quot;/api/v1/ai-auth/token/app&quot;,&quot;REFRESH_TOKEN_URI_3LO&quot;:&quot;/api/v2/auth/refreshtoken&quot;}}},&quot;timeout&quot;:null,&quot;accountInfo&quot;:null,&quot;ALLOW_DEV_MODE&quot;:true,&quot;AIModelMap&quot;:null,&quot;awsBedrockKeys&quot;:null,&quot;googleVertexAiKeys&quot;:null,&quot;timeStamp&quot;:null}" />
+  </component>
+</project>

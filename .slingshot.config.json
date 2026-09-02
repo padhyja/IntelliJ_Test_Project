@@ -1,0 +1,21 @@
+{  "sage_env": "prod",
+  "ALLOW_DEV_MODE": true,
+  "sapientAuthConfig": {
+    "common": {
+      "AUTH_NAME": "Publicis Sapient",
+      "AUTH_TYPE": "publicis-sapient",
+      "GRACE_PERIOD": 120000
+    },
+    "environments": {
+      "prod": {
+        "DOMAIN_NAME": "https://sre-azupgrade.sapientaiproducts.com",
+        "STUDIO_AUTH_LOGIN_URI":
+        "https://sre-azupgrade.sapientaiproducts.com/web/v1/studio-auth/login",
+        "DESKTOP_EXCHANGE_URI":
+        "https://sre-azupgrade.sapientaiproducts.com/api/v1/studio-auth/auth/desktop/exchange",
+        "APP_TOKEN_URI": "/api/v1/ai-auth/token/app",
+        "REFRESH_TOKEN_URI_3LO": "/api/v2/auth/refreshtoken"
+      }
+    }
+  }
+}

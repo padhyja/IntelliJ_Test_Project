@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AuthenticationTokenPreferenceState">
+    <option name="authTokenMap">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNIWGhLRjlsdWJjSlZ5L05lMUp3YVV6SVd2RT0ifQ.eyJ0eXBlIjoiYXQiLCJjbGllbnRJZCI6ImI5N2ZiZWY3LWNhZDktNGU1Ni05ODUwLTM5ZTg2YzhmZGY2MSIsInJlcXVlc3RlZENsaWVudElkIjoiYjk3ZmJlZjctY2FkOS00ZTU2LTk4NTAtMzllODZjOGZkZjYxIiwicHJvdmlkZXJJZCI6InB1YmxpY2lzLWdyb3VwZS1tc2Z0IiwiaWRwIjoibXNmdCIsImlzcyI6Imh0dHBzOi8vc3JlLWF6dXBncmFkZS5zYXBpZW50YWlwcm9kdWN0cy5jb20iLCJyb2xlcyI6WyJzdXBlcl91c2VyIl0sImp0aSI6IkM1bTVsb2lWZEYiLCJpbmR1c3RyeSI6IjBhOTIxNzJiLWE0MGYtNGUxNC1iYjJjLTc5YjEyZTgzODVkNSIsIlVzZXJJbmZvIjp7ImlkIjoiODE4YTY4MDMtNDJmNC00MWEyLTgxNjYtZjU3Y2QwZWI1MWMxIiwiZW1haWwiOiJqYXlwYWRoeUBwdWJsaWNpc2dyb3VwZS5uZXQiLCJkaXNwbGF5TmFtZSI6IkpheWEgUHJha2FzaCBQYWRoeSJ9LCJpYXQiOjE3ODgzMjg0MDMsImV4cCI6MTc4ODMzNTYwM30.UrbE8ymIAiXcHkBrDOnMxIyqKgDML5tbJXXqsLcSu6N9yfUCRjEPMcCTU5r8C4HMkmsilZawxKMZhgUof7nZlFv2tpWfqfkyAWaJH5tWfwuq_2Bbbfh5kZLf67WJtHuwhLpTZveQaUb98-rBamlAWbuVt-0ZBmz2jYrnkzXFd_gxh_Gg8h0t90DckGJ_jC_6ShQSdkngghWkJ-FpxgDKtXFiFH3MdkE7LtGESZC1eIMztmSn-zXmL6BNr4189PzQHoZdT4qImgf8Gdo3o9wgRA0hTzT9XADYu8rhn6t4KcI9_ZvNQX3tb9aqe7Lp-Bge8N_v-y6IoA4AfXA08O08BA" />
+      </map>
+    </option>
+    <option name="refreshTokenMap">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IkNIWGhLRjlsdWJjSlZ5L05lMUp3YVV6SVd2RT0ifQ.eyJ0eXBlIjoicnQiLCJjbGllbnRJZCI6ImI5N2ZiZWY3LWNhZDktNGU1Ni05ODUwLTM5ZTg2YzhmZGY2MSIsInJlcXVlc3RlZENsaWVudElkIjoiYjk3ZmJlZjctY2FkOS00ZTU2LTk4NTAtMzllODZjOGZkZjYxIiwicHJvdmlkZXJJZCI6InB1YmxpY2lzLWdyb3VwZS1tc2Z0IiwiaWRwIjoibXNmdCIsImlzcyI6Imh0dHBzOi8vc3JlLWF6dXBncmFkZS5zYXBpZW50YWlwcm9kdWN0cy5jb20iLCJyb2xlcyI6WyJzdXBlcl91c2VyIl0sImp0aSI6IkM1bTVsb2lWZEYiLCJpbmR1c3RyeSI6IjBhOTIxNzJiLWE0MGYtNGUxNC1iYjJjLTc5YjEyZTgzODVkNSIsIlVzZXJJbmZvIjp7ImlkIjoiODE4YTY4MDMtNDJmNC00MWEyLTgxNjYtZjU3Y2QwZWI1MWMxIiwiZW1haWwiOiJqYXlwYWRoeUBwdWJsaWNpc2dyb3VwZS5uZXQiLCJkaXNwbGF5TmFtZSI6IkpheWEgUHJha2FzaCBQYWRoeSJ9LCJpYXQiOjE3ODgzMjg0MDMsImV4cCI6MTc4ODUwMTIwM30.jB_y7TcP9gNrzf2ambzHOTjlJVtjWnroz1MBlq-w1eH99SydI4esRCsZNFLF6Gh5-IVr7go3LI96LL8Ez3-xt81ntBEMy1_NN3qboZGN3aNVAF_gLzrUqApUN2Mh7RbCZTHhE2R4j2BJw1QZRvijqRsPA-jx6EAzUsnGdV82d_q7gD-gSp6BMFLvu3WsU1wojlOquRe6hP2kjMvmbDrFdJEI5Ur3y8nUu_mHTd7b2CxGeTm_INGbQP4qt6dBYtjqQNfLQzQt2aKNU3APGJmW3cvirAzRWyt7W5C9DXAXjaNfdMCNBK3B5sLdlwMkAIHLrHj7vhZ5JedinYbX6nNNwA" />
+      </map>
+    </option>
+    <option name="timeWhenAuthTokenWasLastUpdated">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="1788328408889" />
+      </map>
+    </option>
+    <option name="workSpaceIdMap">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="e6a87d75-9b6e-45c8-b284-0f76361efa86" />
+      </map>
+    </option>
+    <option name="projectIdMap">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="7dd1f679-dad9-437d-97a1-a099c3feda74" />
+      </map>
+    </option>
+    <option name="clientIdMap">
+      <map>
+        <entry key="IntelliJ_Test_Project" value="b97fbef7-cad9-4e56-9850-39e86c8fdf61" />
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ResponseTimePersistentStateComponent">
+    <option name="messageResponseTime">
+      <map>
+        <entry key="02bace82-e16f-4050-a728-3bf5547f57c0" value="37.78" />
+        <entry key="104d2a47-c641-4d63-9da5-1e72608af952" value="1.583" />
+        <entry key="343731c8-95db-40e7-a91b-215a6497c4e6" value="1.647" />
+        <entry key="34b45c48-43b8-4299-aacd-573ea115f409" value="72.901" />
+        <entry key="5b3bb979-3c4b-48a3-801e-a9e43e7e900b" value="35.386" />
+        <entry key="5d406dd5-e420-487a-8875-2d1f9cc7e59c" value="66.216" />
+        <entry key="9785df88-df17-48d6-a164-623e191f2c1c" value="29.229" />
+        <entry key="b2c2d8ed-97a3-4f4e-bc2f-418b1ad3869b" value="1.609" />
+        <entry key="eca54da5-7a47-48f5-a1c9-5048537df7cc" value="15.336" />
+        <entry key="fc01244f-b91f-4dca-a508-98a577d7252b" value="33.018" />
+        <entry key="ff09b9f9-d5b8-4b64-a7c7-43f0df23919a" value="30.193" />
+      </map>
+    </option>
+    <option name="messageTokenUsageJson">
+      <map>
+        <entry key="02bace82-e16f-4050-a728-3bf5547f57c0" value="{&quot;contextWindow&quot;:1000000,&quot;contextRemainingPercentage&quot;:97.33,&quot;tokensUsed&quot;:188365,&quot;costIncurredInDollars&quot;:0.571367,&quot;inputTokensUsed&quot;:187295,&quot;outputTokensUsed&quot;:1070}" />
+        <entry key="34b45c48-43b8-4299-aacd-573ea115f409" value="{&quot;contextWindow&quot;:1000000,&quot;contextRemainingPercentage&quot;:98.88,&quot;tokensUsed&quot;:134550,&quot;costIncurredInDollars&quot;:0.557312,&quot;inputTokensUsed&quot;:129859,&quot;outputTokensUsed&quot;:4691}" />
+        <entry key="5b3bb979-3c4b-48a3-801e-a9e43e7e900b" value="{&quot;contextWindow&quot;:1000000,&quot;contextRemainingPercentage&quot;:98.94,&quot;tokensUsed&quot;:97678,&quot;costIncurredInDollars&quot;:0.227492,&quot;inputTokensUsed&quot;:96767,&quot;outputTokensUsed&quot;:911}" />
+        <entry key="5d406dd5-e420-487a-8875-2d1f9cc7e59c" value="{&quot;contextWindow&quot;:1000000,&quot;contextRemainingPercentage&quot;:96.96,&quot;tokensUsed&quot;:130664,&quot;costIncurredInDollars&quot;:0.530838,&quot;inputTokensUsed&quot;:127031,&quot;outputTokensUsed&quot;:3633}" />
+        <entry key="9785df88-df17-48d6-a164-623e191f2c1c" value="{&quot;contextWindow&quot;:1000000,&quot;contextRemainingPercentage&quot;:95.65,&quot;tokensUsed&quot;:43507,&quot;costIncurredInDollars&quot;:0.16712,&quot;inputTokensUsed&quot;:43154,&quot;outputTokensUsed&quot;:353}" />
+      </map>
+    </option>
+  </component>
+</project>
